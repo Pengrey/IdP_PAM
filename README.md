@@ -2,7 +2,7 @@
 
 ## Project Description
 This project is a PAM module that allows users to authenticate using external Identity Providers (IdPs). The module uses OAuth 2.0 with the Device Authorization Grant strategy to authenticate users.
-![image](https://github.com/Pengrey/IdP_PAM/assets/55480558/d26fc816-f157-4e77-a669-f51ac7a0172c)
+![image](https://github.com/Pengrey/IdP_PAM/assets/55480558/2c615691-ff64-4d13-9fa8-8f788386eb54)
 
 ## Project Structure
 ![image](https://user-images.githubusercontent.com/55480558/236838210-94a208ed-cb80-4018-b231-7d62e018d949.png)
